@@ -1,3 +1,5 @@
+# This is my fist Heroku app for Cloud Computing Class
+
 # i have deleted the .git folder inside the sticky-note folder so that GitHub doesnt recognize it as another repo and gives access to the folder. incase of any issues with Heroku. To run the the progam after cloning, simply rename the git folder inside the sticky-note folder to .git again.
 
 # assignment2winter2021-416LJ
