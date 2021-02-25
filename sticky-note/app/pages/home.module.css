@@ -1,0 +1,11 @@
+.main {
+  text-align: center;
+}
+
+.fieldSet > label {
+  display: block;
+}
+
+.fieldSet {
+  margin: 10px 0;
+}
